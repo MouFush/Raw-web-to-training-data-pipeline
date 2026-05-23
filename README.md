@@ -33,15 +33,7 @@ data-processing-pipeline/
 └── README.md
 ```
 
-## 环境配置
 
-```bash
-# 1. 激活 conda 环境
-conda activate qwen3.5-alignment
-
-# 2. 安装依赖
-pip install -r requirements.txt
-```
 
 ## 快速开始
 
